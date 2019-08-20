@@ -1,3 +1,7 @@
+https://habr.com/ru/company/ruvds/blog/457860/
+ffmpeg -re -i "C:\Program Files\ffmpeg\2.mp4" -c copy -f flv rtmp://localhost/live/4.flv
+
+
 # Twitch Clone
 
 Interested in creating Twitch Clone in [React](https://medium.com/@nabendu82/create-a-twitch-clone-using-react-1-25448cd92c0a)?
